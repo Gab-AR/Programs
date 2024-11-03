@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UsoDeConta",
+            "request": "launch",
+            "mainClass": "pedroSantosNeto.banco.UsoDeConta",
+            "projectName": "Programas_cf304340"
+        },
+        {
+            "type": "java",
             "name": "teste15",
             "request": "launch",
             "mainClass": "Java.teste.teste15",
